@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Jonathan 👋
 
 <!--
 **Jonathan1600/Jonathan1600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="assets\globe.svg" />][website]
+[<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="assets\worldwide.svg" />][website]
 
 [<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail.svg" />][gmail]
 

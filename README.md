@@ -5,10 +5,6 @@
 
 ## I'm a Gamer, Math Geek, Fast Learner, and Full Stack Web Developer!!
 
-- 🌱 I’m currently learning computer science in Python
-- 🥅 2021 Goals: Graduate from Lambda School and get a developer job
-- ⚡ Fun fact: I love to play video games and read manga
-
 ### Connect with me:
 
 [<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="assets\globe.svg" />][website]

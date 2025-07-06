@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpersonal-portfolio-cyan.vercel.app/)](https://jonathan1600.github.io/)
 
-## I'm a Gamer, Math Geek, Fast Learner, and Full Stack Web Developer!!
+## I'm a Gamer, Fast Learner, and Full Stack Web Developer!!
 
 ### Connect with me:
 

@@ -52,11 +52,6 @@
 
 ---
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img style="margin: 1rem; verticle-align: top"  alt="Jonathan Calderon's Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jonathan1600&layout=compact&theme=radical" />
-</div>
-
 [website]: https://jonathan1600.github.io/
 [gmail]: https://mail.google.com/mail/u/0/?fs=1&to=jonathancalderonsilberman@gmail.com&su=SUBJECT&body=BODY&tf=cm
 [twitter]: https://twitter.com/Jonatha78162990

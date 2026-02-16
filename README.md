@@ -1,6 +1,6 @@
 ### Hello, I'm Jonathan a Full Stack Web Developer👋
 
-[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpersonal-portfolio-cyan.vercel.app/)](https://jonathan1600.github.io/)
+[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpersonal-portfolio-cyan.vercel.app/)](https://www.jonathancalderon.me/)
 
 ## I'm a Gamer, Fast Learner, and Full Stack Web Developer!!
 
